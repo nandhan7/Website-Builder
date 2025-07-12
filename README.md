@@ -6,7 +6,7 @@ Welcome to the **Website Builder**, an AI-powered application that generates ful
 
 ## 🌐 Live Demo
 
-🚀 [Try the Live App](https://website-builder-seven-tau.vercel.app/)  
+🚀 [Try the Live App](https://eloquent-salamander-3fd84a.netlify.app/)  
 🧠 Powered by Claude AI + React + Tailwind CSS
 
 ---
